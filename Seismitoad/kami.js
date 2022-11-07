@@ -88,7 +88,7 @@ function Rayquaza(){
   Jirachi.remove();
 }
 
-
+alert('Dragon Ascent');
 window.onorientationchange = function () {
  switch ( window.orientation ) {
   case 90:
